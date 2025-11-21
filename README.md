@@ -25,7 +25,12 @@ Agora, analise o arquivo e responda somente às perguntas válidas seguindo as r
 Foi realizado o upload de um arquivo csv, que contém as informações de vendas dos supermercados.
 
 ## Passo a Passo 
-
+1. Após a criação do projeto foi feito o deploy do model gpt-4o-mini e a inclusão do agente.
+![image](FrontierGirlsImages\Azureimagem.PNG)
+2. Criação do Agente
+![image](C:\Users\User\Documents\FrontierGirls\DataSenseCopilot_AzureFrontierGirlsChallenge\FrontierGirlsImages\AgenteFrontierGirls.PNG)
+3. Após inserir a instrução para o agente, foi realizado upload do conhecimento
+![image](C:\Users\User\Documents\FrontierGirls\DataSenseCopilot_AzureFrontierGirlsChallenge\FrontierGirlsImages\ConhecimentoUpload.PNG)
 
 
 ## 🔗 Links de Referência
