@@ -47,6 +47,21 @@ Ele contém informações como: ID da venda, data da venda,produto,categoria,qua
 
 ![image](FrontierGirlsImages/CSVdeexemplo.PNG)
 
+## 🛠️ 5. Ação Funcional do Agente
+
+O agente realiza análise automática de vendas, atendendo ao requisito de pelo menos uma ação funcional, incluindo:
+
+- Identificação de produtos mais vendidos
+
+- Ranking de produtos com maior margem de lucro
+
+- Identificação de meses com menor venda
+
+- Cálculo de totais e comparações
+
+- Insights gerais sobre padrões de consumo
+
+Além disso, ele aplica as regras de restrição e recusa solicitações proibidas.
 
 ## Passo a Passo 
 1. Após a criação do projeto foi feito o deploy do modelo gpt-4o-mini e a inclusão do agente.
@@ -80,7 +95,17 @@ Ele contém informações como: ID da venda, data da venda,produto,categoria,qua
 ![image](FrontierGirlsImages/pergunta4.PNG)
 
 
+## Execução e Resultados
 
+O agente respondeu corretamente todas as consultas relacionadas ao dataset e rejeitou ações inválidas, cumprindo:
+
+- Regras do desafio
+
+- Funcionamento do agente
+
+- Restrições inseridas no prompt
+
+- Comportamento esperado em consultas e recusas
    
 
 ## 🔗 Links de Referência
