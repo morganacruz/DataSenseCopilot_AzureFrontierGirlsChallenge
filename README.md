@@ -64,19 +64,19 @@ O agente realiza análise automática de vendas, atendendo ao requisito de pelo 
 Além disso, ele aplica as regras de restrição e recusa solicitações proibidas.
 
 ## Passo a Passo 
-1. Após a criação do projeto foi feito o deploy do modelo gpt-4o-mini e a inclusão do agente.
+1. Após a criação do recurso, foi criado o projeto.
    
 ![image](FrontierGirlsImages/Azureimagem.PNG)
 
-2. Criação do Agente
+2. Em seguida realizado o deploy do modelo gpt-4o-mini e a criação do Agente
    
 ![image](FrontierGirlsImages/AgenteFrontierGirls.PNG)
 
-4. Após inserir a instrução para o agente, foi realizado upload do conhecimento
+4. Cliquei no agente criado e inseri a instrução na aba, em seguida foi realizado upload do conhecimento
    
 ![image](FrontierGirlsImages/ConhecimentoUpload.PNG)
 
-5. Cliquei então em "Playground" e iniciei os testes para verificar se ele estava atendendo as solicitações. Incialmente pedi para ele me dizer quais os 5 produtos mais vendidos.
+5. Cliquei então em "Playground" e iniciei os testes para verificar se ele estava atendendo as solicitações. Inicialmente pedi para ele me dizer quais os 5 produtos mais vendidos.
 
 ![image](FrontierGirlsImages/pergunta1.PNG)
 
