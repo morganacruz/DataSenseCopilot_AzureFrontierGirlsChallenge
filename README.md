@@ -67,7 +67,9 @@ Ele contém informações como: ID da venda, data da venda,produto,categoria,qua
 
 6. Pedi para ele me informar os 3 primeiros meses de menor venda.
 
-![image](FrontierGirlsImages/pergunta2.PNG)
+
+![image](FrontierGirlsImages/resposta2.PNG)
+
 
 7. Pedi para o agente mandar um email e alterar a venda do mês de Janeiro. Obtendo a resposta como esperado, uma mensagem de desculpa conforme foi inserido nas instruções.
 
